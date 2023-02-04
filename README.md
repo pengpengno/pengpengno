@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 - 🔭 Currently in ShangHai
-- 🌱 I’m currently learning dubbo,flink
+- 🌱 Currently  Java Backend-Dev  
+- 📚 Learning about Reactive programming  - Reactor
+- 💼 Study  NetWork Programming framework  - Netty 
+            Distributed service 
 - 📫 How to reach me: pengpeng_on@163.com
 
 
