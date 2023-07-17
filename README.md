@@ -7,7 +7,7 @@
 - 💼 Study  NetWork Programming framework  - Netty 
             Distributed service 
 - ✨ skill dubbo, spring, reactor,docker-compose,vue
-- 📫 How to reach me: pengpeng_on@163.com/allen.pen.on@gmail.com
+- 📫 How to reach me: pengpeng_on@163.com/allen.pen.on@gmail.com  need a job
 
 #### Project
 - ✨[IFxIm](https://github.com/pengpengno/IFxIM)  Based on netty Im system
