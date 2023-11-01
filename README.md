@@ -11,6 +11,7 @@
 
 #### Project
 - ✨[IFxIm](https://github.com/pengpengno/IFxIM)  Based on netty Im system
+- ✨[Meeting](https://github.com/pengpengno/Meeting)  Based on netty , Locally deploy interal meeting sysytem , working 
 - ✨[Flink-kafka](https://github.com/pengpengno/flink-kafka)  kafka stream transport as flink dataSource demo
 - ✨[LeetCode](https://github.com/pengpengno/leetCode)  personal algorithm exercise in leetcode
 - ✨[face_recognition](https://github.com/pengpengno/face_recognition)  based on  python lib face recognition
